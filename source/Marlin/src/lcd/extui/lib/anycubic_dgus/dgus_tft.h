@@ -36,7 +36,7 @@
 #include "../../ui_api.h"
 
 #define DEVICE_NAME             "Anycubic Kobra Std"
-#define FIRMWARE_VER            "Kobra Kai 1.3"
+#define FIRMWARE_VER            "Kobra CM 1.4"
 #define BUILD_VOLUME            "220*220*250 (mm)"
 #define TECH_SUPPORT            "https://www.anycubic.com"
 
