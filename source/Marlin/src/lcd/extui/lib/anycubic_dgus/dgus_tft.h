@@ -36,7 +36,7 @@
 #include "../../ui_api.h"
 
 #define DEVICE_NAME             "Anycubic Kobra Std"
-#define FIRMWARE_VER            "Kobra CM 1.4.2 AllMetal"
+#define FIRMWARE_VER            "Kobra CM 1.4.3 AllMetal"
 #define BUILD_VOLUME            "220*220*250 (mm)"
 #define TECH_SUPPORT            "https://www.anycubic.com"
 
